@@ -1,0 +1,27 @@
+{
+  "name": "samosa-master",
+  "version": "3.2.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^3.4.8",
+    "jade": "*"
+  },
+  "description": "This is version 1.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhon2x015/samosa-master.git"
+  },
+  "keywords": [
+    "samosa"
+  ],
+  "author": "Jhon Vryle Paulate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhon2x015/samosa-master/issues"
+  },
+  "homepage": "https://github.com/jhon2x015/samosa-master#readme"
+}
