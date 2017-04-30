@@ -64,7 +64,7 @@ function adminstudentController($rootScope,$scope, $location, $http) {
 					alert(res.message);
 				} else {
 					alert(res.message);
-					$location.path("/Adminstudent");
+					$location.path("/Addstudent");
 				}
 			}).error(function() {
 				alert("Please check your internet connection or data source..");
