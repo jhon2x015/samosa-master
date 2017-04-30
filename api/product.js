@@ -1,9 +1,10 @@
 var http = require('http');
 var mysql = require('mysql');
 var connection = mysql.createConnection({
-	database : 'icefire',
-     user : 'root',
-	password : '',
+	database : 'student',
+     user : 'ftdev',
+	password : '10gXWOqeaf',
+    host :'localhost',
 });
 
 connection.connect(function(err) {
